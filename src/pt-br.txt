@@ -1,0 +1,167 @@
+<?php
+
+//-------------------------------------
+//common pages
+//menu
+$s101 = "[Home][PDF][Document][Ebook][Image][Video][Audio][Archive][Webpage]";
+//toolbar
+$s111 = "[Quick Convert] [Formats] [FAQ] [Search] [Analyze] [APP] [API] [Privacy] [About] [Sitemap] [Donate]";
+$s122 = "Choose a local file, select target format you want to convert, and click [Convert Now] button to start conversion with default settings.";
+$s123 = "Copyright 2019 AConvert.com. All rights reserved.";
+
+//-------------------------------------
+//index page
+//http://www.aconvert.com
+$s200 = "Convert document, image, video, audio files online"
+$s201 = "AConvert.com converts all kinds of document, ebook, image, icon, video, audio and archive files online for free. The letter [A] in domain name stands for [All]. You can click [QUICK CONVERT] button on the top-right to start a quick conversion: Just select a local file, select target format you want to convert, and click [Convert Now] button to convert the file with default settings.";
+$s202 = "To start a batch file conversion, click [Add files] button below to add multiple files on your computer, phone or tablet, select a target format, and click [Convert Now] button to convert. The output files will be listed in the [Conversion Results] section.";
+$s203 = "[Online Converter][Conversion Results][Add Files][(6 files, 24M each at max)]";
+$s204 = "[31,222,726] files converted online, [69,022 GB] files converted online, 8 SERVERS, Windows & Linux servers, $65 DONATIONS, Donate $5 to aconvert.com";
+
+//search, analyze, error, result, file page
+//http://www.aconvert.com/search.php
+$s205 = "Search File Format";
+$s206 = "Use this form to check whether one file format can be converted to another file format or not. Select a source file format, a target file format, and click [Search] button to start searching. The search results will be listed behind. File conversions can be up to 2 steps. For example: If you search EPUB to JPG, it will show [EPUB to PDF] as first step and [PDF to JPG] as second step.";
+
+$s208 = "Analyze file format online";
+$s209 = "Analysis Results";
+$s210 = "Click [Analyze Now!] button to start analyzing. The analysis results will be listed in the [Analysis Results] section.";
+$s211 = "About: Not sure what format your file is? Just upload it and let our server analyze the file's binary signatures to identify what exactly format your file is. The analysis results will show all possible file formats. For example: If you submit a DOCX file, the analysis results will identify the file both DOCX format and ZIP format. This is because DOCX documents are stored in Open Packaging Convention (OPC) packages, which are ZIP files containing XML and other data files. A DOCX file can be renamed to ZIP file and opened by WinZIP software.";
+
+$s213 = "File conversion failed - Analyze the possible reason may cause your conversion failure and list the top ten conversion failure reasons.";
+$s214 = "The possible reason may cause your conversion failure:";
+$s215 = "The solution to this problem:";
+$s215 = "Here are the top reasons that may cause online file conversion failure on aconvert.com:
+The server may be down or busy at the moment. It doesn't have enough CPU or memory resource to complete conversion. Tips: our servers are idle on weekends and holidays.
+The conversion or the source format is not supported. For example, many users tried to convert WLMP file which is a movie project file that aconvert.com doesn't support.
+The conversion queue is too long or the source file is too big or too complicated to be converted in time. We limit some conversions in 180 seconds. The conversion will be terminated when time is up.";
+
+$s217 = "File information - File name, file size, file URL, button to save file to Google Drive or Dropbox, QR code of file to scan from smart phone.";
+$s218 = "The output file will be automatically deleted on our server after an hour, so please download it to your computer or save it to online storage services such as Google Drive or Dropbox as soon as possible. You can also get the file to your smart phone by scanning the QR code image listed above.";
+
+$s220 = "File conversion results - Open the output file in your web browser or save the output file to your local disk.";
+$s221 = "Click on a file name below to open it in your browser or right-click on a file name and click "Save link as..." menu to save this file to your local disk. Please note these files won't be kept on our server for more than 3 hours, so do not link to these files from other websites.";
+
+//-------------------------------------
+//format page
+//http://www.aconvert.com/format/docx/
+$s301 = "Convert [DOCX] Online";
+$s302 = "Convert [DOCX] [document] file online - The list shows what formats can convert to [DOCX] and what formats can be converted from [DOCX].";
+$s303 = "[Name][Full name][File extension][MIME][Developed by][Type of format][Introduction][Technical details][Associated programs][Sample file][Wiki]";
+$s314 = "File Formats - Index";
+$s315 = "The list shows all document, video, audio, image and icon file formats that our online converter supports. Click on a link below to check a specific format.";
+  
+//-------------------------------------
+//conversion page
+//http://www.aconvert.com/video/
+$s401 = "Convert [document] files online";
+$s402 = "Target format";
+$s403 = "[OUTPUT FILE][SOURCE FILE][ACTION]";
+$s406 = "Steps:";
+$s407 = "1. Click [FILE] or [URL] button to switch local file or online file. Click [Choose file] button to select a file on your computer or enter an online file URL. [video] file size can be up to 200M.";
+$s408 = "2. Choose a target format. The target format can be [DOC], [XLS] or [PPT] etc. ";
+$s409 = "3. Click [Convert Now!] button to start conversion. The output files will be listed in the [Conversion Results] section. Click icon [X] to show file QR code or save file to online storage services such as Google Drive or Dropbox.";
+$s409 = "About:";
+$s410 = "This online converter supports vast conversions include [DOC] to [DOCX], [XLS] to [XLSX], [PPT] to [PPTX] etc.";
+$s411 = "Compare [DOC] with [DOCX]:";
+$s412 = "[DOC] to [DOCX] - Convert [DOC] file to [DOCX] file online for free - Convert [document] file online.";
+$s413 = "Options: [Do not change anything else] [Change size, bitrate or frame rate]";
+$s414 = "[Video size][Video bitrate][Frame Rate][Video aspect]";
+$s415 = "[Audio bitrate] [Sample rate]";
+$s416 = "[Do not change] [Customized]";
+$s417 = "[Authentication] [Post value] [Forms] [Javascript] [Smart shrinking] [Orientation] [Header] ";
+$s418 = "[Image size:] [Do not change image size] [Change image size to: ]";
+$s419 = "[Icon size:][Custom size:]";
+$s420 = "[Convert to PDF][Convert from PDF][Document to Document][Document to Image]";
+$s421 = "A target format can only be converted from certain document formats. For example: It can convert DOC to DOCX, but it can't convert DOC to XLSX.";
+
+$s422 = "Convert PDF files online.";
+$s423 = "Convert Ebook files online";
+$s424 = "Convert Image files online";
+$s425 = "Convert Video files online";
+$s426 = "Convert Audio files online";
+$s427 = "Convert Archive files online";
+$s428 = "Convert webpage online";
+
+//-------------------------------------
+//tools page
+//http://www.aconvert.com/pdf/split/
+$s501 = "[Convert]  [Split]  [Merge]  [Compress]  [Lock]  [Unlock]  [Extract]  [Rotate]";
+$s504 = "Enter the PDF page numbers you want to save. For example: 2, 5-8, 9-end. The keyword [end] can be used to reference the final page of a PDF file instead of a page number.";
+$s507 = "Click [Submit] button to start processing. The file will be appended to the latest PDF file created. For example: You submit PDF files A, B and C one by one, the latest output PDF file will be file A+B+C combinded together.";
+$s512 = "[Allows to print PDF with high quality], [Allows to print PDF with low quality], [Allows to modify PDF contents], [Allows to copy PDF contents], [Allows to edit PDF annotations and fill PDF forms]";
+$s513 = "[User Password],[Owner Password],[PDF Restrictions]";
+$s520 = "[PDF Pages] [Rotation Angel]";
+
+//http://www.aconvert.com/document/ocr/
+$s522 = "[Edit]  [OCR]  [QR Code]  [Case]  [Base64]";
+$s523 = "Select a language. It supports more than 100 languages such as Arabic, Chinese Simplified, Chinese Traditional, German, English, French, Hindi, Italian, Japanese, Korean, Dutch, Russian or Spanish etc.";
+$s524 = "Enter text such as URL, select output format, set [module size] and [margin]. The module size and margin can be up to 30. Set module size to 0 to make image scalable when output format is SVG.  The output QR code will be listed behind. You can scan it with your smart phone or right click it and select [Save image as...] to save the QR code image to your computer.";
+
+//http://www.aconvert.com/image/resize/
+$s526 = "[Icon]  [Resize]  [Crop]  [Merge]  [Rotate]  [Effect]";
+$s527 = "Choose one or more icon size. The default icon size is 32x32. You can select the [Custom size] check and enter your icon size. The format is [width]x[height], for example: 256x256. You can get up to 7 icons at one conversion so you can choose the suitable size.";
+$s529 = "Resize by: [size in pixels] [percentage of original]";
+$s530 = "Aspect ratio: [Preserve original aspect ratio]";
+$s531 = "Fit with: [width only] [height only]";
+$s532 = "Choose a resizing type: size in pixels or percentage of original.";
+
+//http://www.aconvert.com/video/split/
+$s540 = " [Cut] [Merge] [Rotate]  [Crop]  [Pad]";
+$s541 = " Set video [start position] and [duration]. The format is: hh:mm:ss[.xxx]. For example: 00:10:24.";
+$s542 = "([video] file only.)";
+$s544 = "Click [Submit] button to start processing. The video files you added to merge must have the same format. The new video file will be appended to the latest video file created. For example: You submit video files A, B and C one by one, the latest output video file will be file A+B+C combined together.";
+$s545 = "Set video transposition direction. The transposition includes every possible directions:
+Vertically flip
+Horizontally flip
+Rotate by 90 degrees clockwise
+Rotate by 90 degrees counterclockwise
+Rotate by 90 degrees clockwise and vertically flip
+Rotate by 90 degrees counterclockwise and vertically flip
+Rotate by 90 degrees clockwise and horizontally flip
+Rotate by 90 degrees counterclockwise and horizontally flip";
+$s546 = "[Start position] [Output size]";
+$s547 = "Set the start position in the input video. Set width and height of the output video.";
+$s548 = "[Padding] [Padding color]";
+$s549 = "Set padding-top, padding-right, padding-bottom, padding-left values and choose padding color. The default color is black (#000000).";
+  
+//titles
+$s550 = "
+Split PDF - Extract pages from PDF file online
+Split PDF online - Extract some pages from PDF file and save to a new file, delete some pages in PDF file and save the rest pages.
+Merge PDF - Combine PDF files online
+Merge PDF online - An easy and unique way to combine as many PDF files as you want to one single PDF file online.
+Compress PDF - Reduce PDF file size online
+Compress PDF online - Compress PDF file to reduce PDF file size. Just add a PDF file or enter a PDF URL and click submit button to compress file.
+Lock PDF - Protect PDF with passwords and restrictions online
+Lock PDF online - Protect PDF file with user password, owner password and all kinds of restrictions online for free.
+Unlock PDF - Remove PDF passwords and restrictions online
+Unlock PDF online - Remove user password, owner password and all kinds of restrictions from secured PDF file online.
+Extract PDF - Extract text, fonts and image from PDF file online
+Extract PDF online - Extract plain text, embedded TrueType fonts, embedded images and all attachments from PDF file online.
+Rotate PDF - Rotate selected PDF pages online
+Rotate PDF online - Rotate all PDF pages or only the selected PDF pages online. Three rotation angles are available.
+OCR - Convert JPG, PNG, GIF, BMP or TIFF to text online
+Optical character recognition - Convert JPG, PNG, GIF, BMP or TIFF to plain text online. Extract the text from image files.
+QR code - Generate QR code from URL online
+QR code Generator - Generate QR code from URL online. You can scan the QR code with your smart phone or save it as PNG image.
+Resize image - Resize JPG, PNG or GIF image online
+Resize image online - resize JPG, PNG, TIFF or GIF image files by size in pixels or percentage of original online.
+Crop image JPG, PNG and GIF online
+Crop image online - An easy way to crop and rotate selected region from image JPG, PNG and GIF file. Works completely by javascript.
+Cut video - Cut MP4, MKV, WMV, AVI online
+Cut video online - Quickly cut MP4, MKV, WMV, MPEG, WEBM, VOB, OGV or AVI file without decoding, encoding or converting.
+Merge video - Combine video files online
+Merge video online - An easy and unique way to combine as many video files as you want to one single video file online.
+Rotate video - Rotate MP4, MKV, WMV, AVI online
+Rotate video online - Vertically flip video, horizontally flip video, rotate video by 90 degrees clockwise or counterclockwise.
+Crop video - Crop MP4, MKV, WMV, AVI online
+Crop video online - Crop MP4, AVI, FLV, MPG, MKV, WMV, M2TS, WEBM, ASF, MOV, M4V, RM, VOB or OGV video to given dimensions.
+Pad video - Add paddings to video files online
+Pad video online - Add paddings with any color to video files such as MP4, AVI, MPG, MKV, WMV, WEBM, MOV or OGV etc.
+Cut audio - Cut MP3, WAV, OGG, WAV online
+Cut audio online - Quickly cut MP3, WAV, OGG, AAC, MKA, OPUS, M4A or WAV file without decoding, encoding or converting.
+Merge audio - Combine audio files online
+Merge audio online - An easy and unique way to combine as many audio files as you want to one single audio file online.
+";
+?>
