@@ -1,9 +1,9 @@
 <?php
 
 //-------------------------------------
-//common pages
+//páginas comuns
 //menu
-$s101 = "[Home][PDF][Document][Ebook][Image][Video][Audio][Archive][Webpage]";
+$s101 = "[Ínicio][PDF][Documento][Ebook][Imagem][Vídeo][Aúdio][Arquivo Compactado][Página Web]";
 //toolbar
 $s111 = "[Quick Convert] [Formats] [FAQ] [Search] [Analyze] [APP] [API] [Privacy] [About] [Sitemap] [Donate]";
 $s122 = "Choose a local file, select target format you want to convert, and click [Convert Now] button to start conversion with default settings.";
