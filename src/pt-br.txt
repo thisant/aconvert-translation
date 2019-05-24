@@ -16,7 +16,7 @@ $s200 = "Convert document, image, video, audio files online"
 $s201 = "AConvert.com converts all kinds of document, ebook, image, icon, video, audio and archive files online for free. The letter [A] in domain name stands for [All]. You can click [QUICK CONVERT] button on the top-right to start a quick conversion: Just select a local file, select target format you want to convert, and click [Convert Now] button to convert the file with default settings.";
 $s202 = "To start a batch file conversion, click [Add files] button below to add multiple files on your computer, phone or tablet, select a target format, and click [Convert Now] button to convert. The output files will be listed in the [Conversion Results] section.";
 $s203 = "[Online Converter][Conversion Results][Add Files][(6 files, 24M each at max)]";
-$s204 = "[31,222,726] files converted online, [69,022 GB] files converted online, 8 SERVERS, Windows & Linux servers, $65 DONATIONS, Donate $5 to aconvert.com";
+$s204 = "[31,222,726] arquivos convertidos online, [69,022 GB] de arquivos convertidos online, 8 SERVIDORES, Windows & Linux servers, $65 DOAÇÕES, Donate $5 to aconvert.com";
 
 //search, analyze, error, result, file page
 //http://www.aconvert.com/search.php
