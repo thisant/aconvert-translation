@@ -57,11 +57,11 @@ $s315 = "The list shows all document, video, audio, image and icon file formats 
 $s401 = "Convert [document] files online";
 $s402 = "Target format";
 $s403 = "[OUTPUT FILE][SOURCE FILE][ACTION]";
-$s406 = "Steps:";
+$s406 = "Passos:";
 $s407 = "1. Click [FILE] or [URL] button to switch local file or online file. Click [Choose file] button to select a file on your computer or enter an online file URL. [video] file size can be up to 200M.";
 $s408 = "2. Choose a target format. The target format can be [DOC], [XLS] or [PPT] etc. ";
 $s409 = "3. Click [Convert Now!] button to start conversion. The output files will be listed in the [Conversion Results] section. Click icon [X] to show file QR code or save file to online storage services such as Google Drive or Dropbox.";
-$s409 = "About:";
+$s409 = "Sobre:";
 $s410 = "This online converter supports vast conversions include [DOC] to [DOCX], [XLS] to [XLSX], [PPT] to [PPTX] etc.";
 $s411 = "Compare [DOC] with [DOCX]:";
 $s412 = "[DOC] to [DOCX] - Convert [DOC] file to [DOCX] file online for free - Convert [document] file online.";
@@ -84,9 +84,9 @@ $s427 = "Convert Archive files online";
 $s428 = "Convert webpage online";
 
 //-------------------------------------
-//tools page
+//página de ferramentas
 //http://www.aconvert.com/pdf/split/
-$s501 = "[Convert]  [Split]  [Merge]  [Compress]  [Lock]  [Unlock]  [Extract]  [Rotate]";
+$s501 = "[Converter]  [Dividir]  [Mesclar]  [Comprimir]  [Bloquear]  [Desbloquear]  [Extrair]  [Girar]";
 $s504 = "Enter the PDF page numbers you want to save. For example: 2, 5-8, 9-end. The keyword [end] can be used to reference the final page of a PDF file instead of a page number.";
 $s507 = "Click [Submit] button to start processing. The file will be appended to the latest PDF file created. For example: You submit PDF files A, B and C one by one, the latest output PDF file will be file A+B+C combinded together.";
 $s512 = "[Allows to print PDF with high quality], [Allows to print PDF with low quality], [Allows to modify PDF contents], [Allows to copy PDF contents], [Allows to edit PDF annotations and fill PDF forms]";
