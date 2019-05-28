@@ -129,7 +129,7 @@ $s549 = "Set padding-top, padding-right, padding-bottom, padding-left values and
 $s550 = "
 Split PDF - Extract pages from PDF file online
 Split PDF online - Extract some pages from PDF file and save to a new file, delete some pages in PDF file and save the rest pages.
-Merge PDF - Combine PDF files online
+Mesclar PDF - Combinar arquivos PDF online
 Merge PDF online - An easy and unique way to combine as many PDF files as you want to one single PDF file online.
 Compress PDF - Reduce PDF file size online
 Compress PDF online - Compress PDF file to reduce PDF file size. Just add a PDF file or enter a PDF URL and click submit button to compress file.
@@ -161,7 +161,7 @@ Pad video - Add paddings to video files online
 Pad video online - Add paddings with any color to video files such as MP4, AVI, MPG, MKV, WMV, WEBM, MOV or OGV etc.
 Cut audio - Cut MP3, WAV, OGG, WAV online
 Cut audio online - Quickly cut MP3, WAV, OGG, AAC, MKA, OPUS, M4A or WAV file without decoding, encoding or converting.
-Merge audio - Combine audio files online
+Mesclar áudio - Combinar arquivos de áudio online
 Merge audio online - An easy and unique way to combine as many audio files as you want to one single audio file online.
 ";
 ?>
