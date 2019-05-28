@@ -6,8 +6,8 @@
 $s101 = "[Ínicio][PDF][Documento][Ebook][Imagem][Vídeo][Aúdio][Arquivo Compactado][Página Web]";
 //barra de ferramentas
 $s111 = "[Conversão Rápida] [Formatos] [FAQ] [Pesquisar] [Analisar] [Aplicativo] [API] [Privacidade] [Sobre] [Mapa do Site] [Doar]";
-$s122 = "Choose a local file, select target format you want to convert, and click [Convert Now] button to start conversion with default settings.";
-$s123 = "Copyright 2019 AConvert.com. All rights reserved.";
+$s122 = "Escolha um arquivo local, selecione para qual formato você quer converter, e clique no botão [Converter Agora] para iniciar a conversão com as configurações padrão.";
+$s123 = "Copyright 2019 AConvert.com. Todos os Direitos Reservados.";
 
 //-------------------------------------
 //index page
