@@ -45,7 +45,7 @@ $s221 = "Click on a file name below to open it in your browser or right-click on
 //-------------------------------------
 //format page
 //http://www.aconvert.com/format/docx/
-$s301 = "Convert [DOCX] Online";
+$s301 = "Converter [DOCX] Online";
 $s302 = "Convert [DOCX] [document] file online - The list shows what formats can convert to [DOCX] and what formats can be converted from [DOCX].";
 $s303 = "[Name][Full name][File extension][MIME][Developed by][Type of format][Introduction][Technical details][Associated programs][Sample file][Wiki]";
 $s314 = "File Formats - Index";
@@ -56,7 +56,7 @@ $s315 = "The list shows all document, video, audio, image and icon file formats 
 //http://www.aconvert.com/video/
 $s401 = "Convert [document] files online";
 $s402 = "Target format";
-$s403 = "[OUTPUT FILE][SOURCE FILE][ACTION]";
+$s403 = "[ARQUIVO DE SAÍDA][ARQUIVO DE ENTRADA][AÇÃO]";
 $s406 = "Passos:";
 $s407 = "1. Click [FILE] or [URL] button to switch local file or online file. Click [Choose file] button to select a file on your computer or enter an online file URL. [video] file size can be up to 200M.";
 $s408 = "2. Choose a target format. The target format can be [DOC], [XLS] or [PPT] etc. ";
