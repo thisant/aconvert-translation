@@ -99,7 +99,7 @@ $s523 = "Select a language. It supports more than 100 languages such as Arabic, 
 $s524 = "Enter text such as URL, select output format, set [module size] and [margin]. The module size and margin can be up to 30. Set module size to 0 to make image scalable when output format is SVG.  The output QR code will be listed behind. You can scan it with your smart phone or right click it and select [Save image as...] to save the QR code image to your computer.";
 
 //http://www.aconvert.com/image/resize/
-$s526 = "[Icon]  [Resize]  [Crop]  [Merge]  [Rotate]  [Effect]";
+$s526 = "[Ícone]  [Redimensionar]  [Crop]  [Mesclar]  [Girar]  [Efeito]";
 $s527 = "Choose one or more icon size. The default icon size is 32x32. You can select the [Custom size] check and enter your icon size. The format is [width]x[height], for example: 256x256. You can get up to 7 icons at one conversion so you can choose the suitable size.";
 $s529 = "Resize by: [size in pixels] [percentage of original]";
 $s530 = "Aspect ratio: [Preserve original aspect ratio]";
@@ -107,9 +107,9 @@ $s531 = "Fit with: [width only] [height only]";
 $s532 = "Choose a resizing type: size in pixels or percentage of original.";
 
 //http://www.aconvert.com/video/split/
-$s540 = " [Cut] [Merge] [Rotate]  [Crop]  [Pad]";
+$s540 = " [Cut] [Mesclar] [Girar]  [Crop]  [Pad]";
 $s541 = " Set video [start position] and [duration]. The format is: hh:mm:ss[.xxx]. For example: 00:10:24.";
-$s542 = "([video] file only.)";
+$s542 = "(apenas arquivo de [vídeo].)";
 $s544 = "Click [Submit] button to start processing. The video files you added to merge must have the same format. The new video file will be appended to the latest video file created. For example: You submit video files A, B and C one by one, the latest output video file will be file A+B+C combined together.";
 $s545 = "Set video transposition direction. The transposition includes every possible directions:
 Vertically flip
@@ -127,12 +127,12 @@ $s549 = "Set padding-top, padding-right, padding-bottom, padding-left values and
   
 //titles
 $s550 = "
-Split PDF - Extract pages from PDF file online
-Split PDF online - Extract some pages from PDF file and save to a new file, delete some pages in PDF file and save the rest pages.
+Dividir PDF - Extract pages from PDF file online
+Dividir PDF online - Extract some pages from PDF file and save to a new file, delete some pages in PDF file and save the rest pages.
 Mesclar PDF - Combinar arquivos PDF online
-Merge PDF online - An easy and unique way to combine as many PDF files as you want to one single PDF file online.
-Compress PDF - Reduce PDF file size online
-Compress PDF online - Compress PDF file to reduce PDF file size. Just add a PDF file or enter a PDF URL and click submit button to compress file.
+Mesclar PDF online - An easy and unique way to combine as many PDF files as you want to one single PDF file online.
+Comprimir PDF - Reduce PDF file size online
+Comprimir PDF online - Compress PDF file to reduce PDF file size. Just add a PDF file or enter a PDF URL and click submit button to compress file.
 Lock PDF - Protect PDF with passwords and restrictions online
 Lock PDF online - Protect PDF file with user password, owner password and all kinds of restrictions online for free.
 Unlock PDF - Remove PDF passwords and restrictions online
@@ -145,16 +145,16 @@ OCR - Convert JPG, PNG, GIF, BMP or TIFF to text online
 Optical character recognition - Convert JPG, PNG, GIF, BMP or TIFF to plain text online. Extract the text from image files.
 QR code - Generate QR code from URL online
 QR code Generator - Generate QR code from URL online. You can scan the QR code with your smart phone or save it as PNG image.
-Resize image - Resize JPG, PNG or GIF image online
-Resize image online - resize JPG, PNG, TIFF or GIF image files by size in pixels or percentage of original online.
+Redimensionar imagem - Redimesionar imagem JPG, PNG ou GIF online
+Redimensionar imagem online - resize JPG, PNG, TIFF or GIF image files by size in pixels or percentage of original online.
 Crop image JPG, PNG and GIF online
 Crop image online - An easy way to crop and rotate selected region from image JPG, PNG and GIF file. Works completely by javascript.
 Cut video - Cut MP4, MKV, WMV, AVI online
 Cut video online - Quickly cut MP4, MKV, WMV, MPEG, WEBM, VOB, OGV or AVI file without decoding, encoding or converting.
-Merge video - Combine video files online
-Merge video online - An easy and unique way to combine as many video files as you want to one single video file online.
-Rotate video - Rotate MP4, MKV, WMV, AVI online
-Rotate video online - Vertically flip video, horizontally flip video, rotate video by 90 degrees clockwise or counterclockwise.
+Mesclar vídeo - Combine video files online
+Mesclar vídeo online - An easy and unique way to combine as many video files as you want to one single video file online.
+Girar vídeo - Girar MP4, MKV, WMV, AVI online
+Girar vídeo online - Vertically flip video, horizontally flip video, rotate video by 90 degrees clockwise or counterclockwise.
 Crop video - Crop MP4, MKV, WMV, AVI online
 Crop video online - Crop MP4, AVI, FLV, MPG, MKV, WMV, M2TS, WEBM, ASF, MOV, M4V, RM, VOB or OGV video to given dimensions.
 Pad video - Add paddings to video files online
@@ -162,6 +162,6 @@ Pad video online - Add paddings with any color to video files such as MP4, AVI, 
 Cut audio - Cut MP3, WAV, OGG, WAV online
 Cut audio online - Quickly cut MP3, WAV, OGG, AAC, MKA, OPUS, M4A or WAV file without decoding, encoding or converting.
 Mesclar áudio - Combinar arquivos de áudio online
-Merge audio online - An easy and unique way to combine as many audio files as you want to one single audio file online.
+Mesclar áudio online - An easy and unique way to combine as many audio files as you want to one single audio file online.
 ";
 ?>
